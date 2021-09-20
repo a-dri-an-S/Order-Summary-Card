@@ -27,7 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
-[Desktop](./design/desktop.jpg)
+![Desktop](./design/desktop.png)
+![Mobile](./design/mobile.png)
+![Planning](./design/class-names.jpg)
 
 ### Links
 
