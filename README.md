@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Planning](./design/class-names.jpg)
-![Desktop](./design/desktop.jpg)
-![Mobile](./design/mobile.jpg)
+[Planning](./design/class-names.jpg)
+[Desktop](./design/desktop.jpg)
+[Mobile](./design/mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://fm-ordrsmrycrd.netlify.app/)
+- Solution URL: [Live Site](https://fm-ordrsmrycrd.netlify.app/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -68,4 +68,4 @@ Users should be able to:
 ## Author
 
 - Website - [Adrian Salinas](https://www.adriansalinas.tech)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@a-dri-an-S](https://www.frontendmentor.io/profile/a-dri-an-S)
