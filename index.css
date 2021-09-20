@@ -21,7 +21,6 @@ body {
     justify-content: center;
     align-items: center;
     background-color: var(--pale-blue);
-    background-image: url(./images/pattern-background-desktop.svg);
     background-size: 100%;
     background-repeat: no-repeat;
     height: 100vh;
@@ -133,7 +132,10 @@ button {
     color: hsl(228, 45%, 44%); 
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 600px) {
+    body {
+        background-image: url(./images/pattern-background-mobile.svg);
+    }
     .card {
         width: 325px;
         height: 600px;
@@ -156,7 +158,10 @@ button {
     }
 }
 
-@media only screen and (min-width: 376px) {
+@media only screen and (min-width: 601px) {
+    body {
+        background-image: url(./images/pattern-background-desktop.svg);
+    }
     .card {
         width: 450px;
         height: 675px;
